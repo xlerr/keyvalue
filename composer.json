@@ -1,5 +1,5 @@
 {
-  "name": "xlerr/kvmanager",
+  "name": "xlerr/keyvalue",
   "type": "library",
   "authors": [
     {
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "kvmanager\\": "src/"
+      "keyvalue\\": "src/"
     }
   },
   "require-dev": {
@@ -25,7 +25,7 @@
   },
   "autoload-dev": {
     "psr-4": {
-      "kvmanager\\test\\": "test/"
+      "keyvalue\\test\\": "test/"
     }
   }
 }

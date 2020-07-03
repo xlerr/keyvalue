@@ -1,10 +1,10 @@
 <?php
 
-namespace kvmanager\behaviors;
+namespace keyvalue\behaviors;
 
 use apollo\Apollo;
-use kvmanager\models\KeyValue;
-use kvmanager\Module;
+use keyvalue\models\KeyValue;
+use keyvalue\Module;
 use Yii;
 use yii\base\Behavior;
 use yii\db\ActiveRecord;

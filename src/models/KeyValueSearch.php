@@ -1,6 +1,6 @@
 <?php
 
-namespace kvmanager\models;
+namespace keyvalue\models;
 
 use yii\base\Model;
 use yii\data\ActiveDataProvider;

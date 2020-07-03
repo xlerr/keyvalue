@@ -1,13 +1,13 @@
 <?php
 
 use kartik\widgets\Select2;
-use kvmanager\models\KeyValue;
+use keyvalue\models\KeyValue;
 use xlerr\jsoneditor\JsonEditor;
 use yii\helpers\Html;
 use yii\widgets\ActiveForm;
 
 /* @var $this yii\web\View */
-/* @var $model \kvmanager\models\KeyValue */
+/* @var $model \keyvalue\models\KeyValue */
 /* @var $form yii\widgets\ActiveForm */
 
 $formId = md5(__FILE__ . 'KVMANAGER');

@@ -2,10 +2,10 @@
 
 use kartik\widgets\ActiveForm;
 use kartik\widgets\Select2;
-use kvmanager\models\KeyValue;
+use keyvalue\models\KeyValue;
 use yii\helpers\Html;
 
-/** @var $model \kvmanager\models\KeyValue */
+/** @var $model \keyvalue\models\KeyValue */
 ?>
 
 <div class="box box-default search">

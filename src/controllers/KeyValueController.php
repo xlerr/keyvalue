@@ -1,9 +1,9 @@
 <?php
 
-namespace kvmanager\controllers;
+namespace keyvalue\controllers;
 
-use kvmanager\models\KeyValue;
-use kvmanager\models\KeyValueSearch;
+use keyvalue\models\KeyValue;
+use keyvalue\models\KeyValueSearch;
 use Yii;
 use yii\filters\VerbFilter;
 use yii\web\Controller;

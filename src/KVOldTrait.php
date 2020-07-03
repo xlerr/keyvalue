@@ -1,6 +1,6 @@
 <?php
 
-namespace kvmanager;
+namespace keyvalue;
 
 trait KVOldTrait
 {

@@ -2,7 +2,7 @@
 
 /* @var $this yii\web\View */
 
-/* @var $model \kvmanager\models\KeyValue */
+/* @var $model \keyvalue\models\KeyValue */
 
 $this->title = Yii::t('kvmanager', 'Update: {0}', $model->key_value_key);
 $this->params['breadcrumbs'][] = ['label' => Yii::t('kvmanager', 'Key Value'), 'url' => ['index']];

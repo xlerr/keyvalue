@@ -1,6 +1,6 @@
 <?php
 
-namespace kvmanager;
+namespace keyvalue;
 
 use Yii;
 use yii\base\BootstrapInterface;

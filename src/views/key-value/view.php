@@ -1,6 +1,6 @@
 <?php
 
-use kvmanager\models\KeyValue;
+use keyvalue\models\KeyValue;
 use xlerr\jsoneditor\JsonViewer;
 use yii\helpers\Html;
 use yii\widgets\DetailView;

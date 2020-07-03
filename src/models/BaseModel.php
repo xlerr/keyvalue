@@ -1,9 +1,9 @@
 <?php
 
-namespace kvmanager\models;
+namespace keyvalue\models;
 
-use kvmanager\behaviors\CacheBehavior;
-use kvmanager\KVException;
+use keyvalue\behaviors\CacheBehavior;
+use keyvalue\KVException;
 use Yii;
 use yii\base\Event;
 use yii\base\InvalidConfigException;

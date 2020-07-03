@@ -1,6 +1,6 @@
 <?php
 
-namespace kvmanager\behaviors;
+namespace keyvalue\behaviors;
 
 use yii\base\Behavior;
 use yii\db\ActiveRecord;

@@ -1,9 +1,9 @@
 <?php
 
-namespace kvmanager\models;
+namespace keyvalue\models;
 
-use kvmanager\behaviors\ApolloBehavior;
-use kvmanager\KVOldTrait;
+use keyvalue\behaviors\ApolloBehavior;
+use keyvalue\KVOldTrait;
 use Yii;
 use yii\helpers\ArrayHelper;
 
