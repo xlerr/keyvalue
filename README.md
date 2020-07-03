@@ -1,17 +1,17 @@
-kv-manager
+key value
 ========
 
 ### Example
 
 ```shell
-./yii migrate --migrationPath=@vendor/xlerr/kvmanager/src/migrations
+./yii migrate --migrationPath=@vendor/xlerr/keyvalue/src/migrations
 ```
 
 ```php
 'bootstrap' => ['key-value'], // 重写路由，主要用于兼容以前的地址
 'modules' => [
     'key-value' => [
-        'class' => \kvmanager\Module::class,
+        'class' => \keyvalue\Module::class,
         /**
          * null: 关闭同步
          * string: 配置从KV读取
